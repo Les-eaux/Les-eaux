@@ -1,7 +1,6 @@
 Hey mate 👋
 
-- did a Bachelor in biology 🧫🌱
+- Did a Bachelor in biology 🧫🌱
 - Doing a Master in Bioinformatics 🖥🧬
-- currently learning about programming/coding 💽🧩
-- new on Github 💬
-- Probably doing some troubleshooting at the moment 🫨
+- Delving into the world of programming/coding 💽🧩
+- Currently decoding both genetic mysteries and occasional error messages. 🫨
