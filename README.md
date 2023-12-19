@@ -1,8 +1,7 @@
-Hi there 👋
+Hey mate 👋
 
-Here are some ideas to get you started:
-
-- Bachelor in biology 🧫🌱
+- did a Bachelor in biology 🧫🌱
 - Doing a Master in Bioinformatics 🖥🧬
 - currently learning about programming/coding 💽🧩
-- new on GIThub 💬
+- new on Github 💬
+- Probably doing some troubleshooting at the moment 🫨
